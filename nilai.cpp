@@ -7,16 +7,16 @@ int main() {
     cout<< "Masukkan Nilai ";
     cin>> nilai;
     if (nilai>90) {
-        cout<<"Nilai A";
+        cout<<"Nilai A"<<endl;
     }
     else if (nilai>80) {
-        cout<<"Nilai B";
+        cout<<"Nilai B"<<endl;
     }
     else if (nilai>70) {
-        cout<<"Nilai C";
+        cout<<"Nilai C"<<endl;
     }
     else {
-        cout<<"Nilai D";
+        cout<<"Nilai D"<<endl;
     }
 
     system("pause");
