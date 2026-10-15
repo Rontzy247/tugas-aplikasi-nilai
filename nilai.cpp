@@ -9,7 +9,7 @@ int main() {
     
     int nilai;
 
-    cout<< "═════════ INPUT NILAI ═════════";
+    cout<< "═════════ INPUT NILAI ═════════"<<endl;
     cout<< "Masukkan Nilai ";
     cin>> nilai;
     if (nilai>90) {
@@ -24,7 +24,7 @@ int main() {
     else {
         cout<<"Nilai D"<<endl;
     }
-    cout<< "◼◻◼◻◼◻◼◻◼◻◼◻◼◻◼◻◼◻◼◻◼";
+    cout<< "◼◻◼◻◼◻◼◻◼◻◼◻◼◻◼◻◼◻◼◻◼"<<endl;
     system("pause");
     return 0;
 }
