@@ -19,5 +19,6 @@ int main() {
         cout<<"Nilai D";
     }
 
+    system("pause");
     return 0;
 }
