@@ -6,13 +6,13 @@ int main() {
     int nilai;
     cout<< "Masukkan Nilai ";
     cin>> nilai;
-    if (nilai>95) {
+    if (nilai>90) {
         cout<<"Nilai A";
     }
-    else if (nilai>85) {
+    else if (nilai>80) {
         cout<<"Nilai B";
     }
-    else if (nilai>75) {
+    else if (nilai>70) {
         cout<<"Nilai C";
     }
     else {
